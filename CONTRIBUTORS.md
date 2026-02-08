@@ -1,4 +1,4 @@
 # Contributors for the project: Jane Doe
-# Contributors for the project: Lan Doan
+# Contributors for the project: LAN DOAN
 =======
 
